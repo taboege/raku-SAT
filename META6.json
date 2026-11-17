@@ -7,7 +7,7 @@
   "tags"          : [ ],
   "license"       : "Artistic-2.0",
   "depends"       : [
-    "Compress::Zlib"
+    "Compress::Zlib:ver<2.0.0+>:auth<zef:apogee>"
   ],
   "build-depends" : [ ],
   "test-depends"  : [
